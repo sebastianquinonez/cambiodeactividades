@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cambiodeactividades</string>
+    <string name="title_activity_segundapantalla">segundapantalla</string>
+    <string name="ir_a_segunda_ventana">ir_a_segunda_ventana</string>
+</resources>
